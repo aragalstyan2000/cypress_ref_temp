@@ -1,0 +1,11 @@
+{
+  "encrypted": false,
+  "description": "test",
+  "sections": [
+    {
+      "name": "Section1",
+      "syntax": "autodetect",
+      "contents": "text"
+    }
+  ]
+}
